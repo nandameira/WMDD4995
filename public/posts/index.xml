@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Tracks</title>
+    <link>./posts/</link>
+    <description>Recent content in Posts on Tracks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2016 Your name or company</copyright>
+    <lastBuildDate>Mon, 02 Oct 2017 16:29:57 -0700</lastBuildDate>
+    
+	<atom:link href="./posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Web Design vs. APP Design</title>
+      <link>./posts/my-first-post/</link>
+      <pubDate>Mon, 02 Oct 2017 16:29:57 -0700</pubDate>
+      
+      <guid>./posts/my-first-post/</guid>
+      <description>Web Design vs. APP Design There are differences in designing for websites and applications, and this should totally influence your thinking and projects development.As both can be created using similar principles, using the same tools and languages, can mix the objectives of each one of them.
+The UI of websites tends to explore images, decorative elements, longer texts and a promotional appeal for conversions, while on APPs we need leaner interfaces with quick and easy access to primary functions, focus on the use of technology offered by the device (GPS, touch screen gestures, etc.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://www.fernandameira.com/blog/post/first/</loc>
+    <lastmod>2017-10-02T16:29:57-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.fernandameira.com/blog/contact/</loc>
+    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.fernandameira.com/blog/about/</loc>
+    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.fernandameira.com/blog/about/</loc>
+    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.fernandameira.com/blog/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.fernandameira.com/blog/contact/</loc>
+    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.fernandameira.com/blog/categories/design/</loc>
+    <lastmod>2017-10-02T16:29:57-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.fernandameira.com/blog/</loc>
+    <lastmod>2017-10-02T16:29:57-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.fernandameira.com/blog/post/</loc>
+    <lastmod>2017-10-02T16:29:57-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.fernandameira.com/blog/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
