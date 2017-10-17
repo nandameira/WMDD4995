@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Fernanda Meira&#39;s Blog</title>
-    <link>http://www.fernandameira.com/blog/post/</link>
-    <description>Recent content in Posts on Fernanda Meira&#39;s Blog</description>
+    <title>Lifestyle on Fernanda Meira&#39;s Blog</title>
+    <link>http://www.fernandameira.com/blog/categories/lifestyle/</link>
+    <description>Recent content in Lifestyle on Fernanda Meira&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2016 Your name or company</copyright>
     <lastBuildDate>Tue, 17 Oct 2017 12:00:57 -0700</lastBuildDate>
     
-	<atom:link href="http://www.fernandameira.com/blog/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.fernandameira.com/blog/categories/lifestyle/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,16 +19,6 @@
       
       <guid>http://www.fernandameira.com/blog/post/second/</guid>
       <description>&lt;p&gt;I am a designer with over 10 years of experience and after working for years in advertising agencies and big companies like Jornal O Globo and L&amp;rsquo;Óreal in Brazil. I decided to take the risk and start a web and graphic designer freelance career.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Web Design vs. APP Design</title>
-      <link>http://www.fernandameira.com/blog/post/first/</link>
-      <pubDate>Mon, 02 Oct 2017 16:29:57 -0700</pubDate>
-      
-      <guid>http://www.fernandameira.com/blog/post/first/</guid>
-      <description>&lt;p&gt;There are differences in designing for websites and applications, and this should totally influence your thinking and projects development.As both can be created using similar principles, the same tools and languages, we need to be carefull and don&amp;rsquo;t mix the objectives of each one of them.
 &lt;/p&gt;</description>
     </item>
     

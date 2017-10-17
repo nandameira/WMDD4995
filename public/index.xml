@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2016 Your name or company</copyright>
-    <lastBuildDate>Mon, 02 Oct 2017 16:29:57 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 17 Oct 2017 12:00:57 -0700</lastBuildDate>
     
 	<atom:link href="http://www.fernandameira.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My freelance experience</title>
+      <link>http://www.fernandameira.com/blog/post/second/</link>
+      <pubDate>Tue, 17 Oct 2017 12:00:57 -0700</pubDate>
+      
+      <guid>http://www.fernandameira.com/blog/post/second/</guid>
+      <description>&lt;p&gt;I am a designer with over 10 years of experience and after working for years in advertising agencies and big companies like Jornal O Globo and L&amp;rsquo;Óreal in Brazil. I decided to take the risk and start a web and graphic designer freelance career.
+&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Web Design vs. APP Design</title>
