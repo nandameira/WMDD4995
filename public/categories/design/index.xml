@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2016 Your name or company</copyright>
-    <lastBuildDate>Mon, 02 Oct 2017 16:29:57 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 28 Nov 2017 10:00:57 -0700</lastBuildDate>
     
 	<atom:link href="http://www.fernandameira.com/blog/categories/design/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Webdesign trends for 2018</title>
+      <link>http://www.fernandameira.com/blog/post/four/</link>
+      <pubDate>Tue, 28 Nov 2017 10:00:57 -0700</pubDate>
+      
+      <guid>http://www.fernandameira.com/blog/post/four/</guid>
+      <description>&lt;p&gt;The year 2018 is just around the corner so I made a prediction of the next web design trends for 2018.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>UX vs. UI</title>
+      <link>http://www.fernandameira.com/blog/post/third/</link>
+      <pubDate>Mon, 06 Nov 2017 12:00:57 -0700</pubDate>
+      
+      <guid>http://www.fernandameira.com/blog/post/third/</guid>
+      <description>&lt;p&gt;It is very common to mix UI Design with UX Design, and even though the names are similar, their approaches are quite different.
+&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Web Design vs. APP Design</title>
@@ -18,7 +39,7 @@
       <pubDate>Mon, 02 Oct 2017 16:29:57 -0700</pubDate>
       
       <guid>http://www.fernandameira.com/blog/post/first/</guid>
-      <description>&lt;p&gt;There are differences in designing for websites and applications, and this should totally influence your thinking and projects development.As both can be created using similar principles, the same tools and languages, we need to be carefull and don&amp;rsquo;t mix the objectives of each one of them.
+      <description>&lt;p&gt;There are differences in designing for websites and applications, and this should totally influence your thinking and projects development.
 &lt;/p&gt;</description>
     </item>
     

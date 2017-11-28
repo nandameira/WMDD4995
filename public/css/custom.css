@@ -1,1 +1,12 @@
-/* your styles go here */
+.entry-meta {
+    margin-top: 10%;
+}
+
+.entry-sidebar {
+	display: none;
+}
+
+ p { line-height: 2; margin-right: 5%; }
+
+ a:hover {color: #DE2B3A;}
+
